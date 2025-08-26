@@ -1,0 +1,44 @@
+section{
+    display: grid;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+    
+    
+   
+}
+body{
+    color: red;
+    text-align: center;
+    background-image: url('images/LondonEye.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+ul{
+    color: yellow;
+    display: inline;
+    text-align: center;
+    align-items: center;
+    margin-right: 30px;
+    
+}
+
+li{
+    color: yellow;
+    
+    
+}
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+
+img{
+    max-height: 250px;
+    margin-top: 20px;
+}
+
